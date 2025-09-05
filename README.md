@@ -367,10 +367,8 @@ Where:
 
 ### Key Papers:
 1. **SimCLR**: "A Simple Framework for Contrastive Learning of Visual Representations"
-https://github.dev/phlippe/uvadlc_notebooks/blob/master/docs/tutorial_notebooks/tutorial17/SimCLR.ipynb
-
-
-https://arxiv.org/pdf/2002.05709
+   - https://arxiv.org/pdf/2002.05709
+   - Implementation: https://github.dev/phlippe/uvadlc_notebooks/blob/master/docs/tutorial_notebooks/tutorial17/SimCLR.ipynb
 
 2. **InfoNCE**: "Representation Learning with Contrastive Predictive Coding"
 3. **ResNet**: "Deep Residual Learning for Image Recognition"
@@ -380,4 +378,15 @@ https://arxiv.org/pdf/2002.05709
 - **Self-Supervision**: Using data structure as supervision signal
 - **Representation Learning**: Learning meaningful feature representations
 
-This implementation provides a complete framework for understanding and applying self-supervised learning techniques using SimCLR, with practical examples and detailed explanations of each component.
+## 🎓 Advanced Learning Resources
+
+### Comprehensive Surveys:
+- **A Survey on Contrastive Self-supervised Learning**: https://arxiv.org/abs/2011.00362
+  - *Complete overview of contrastive learning methods and applications*
+
+### Advanced Techniques:
+- **Advances in Understanding, Improving, and Applying Contrastive Learning**: https://hazyresearch.stanford.edu/blog/2022-04-19-contrastive-1
+  - *Stanford's deep dive into contrastive learning improvements*
+
+- **Masked Autoencoders Are Scalable Vision Learners**: https://arxiv.org/abs/2111.06377
+  - *Alternative self-supervised approach using masked reconstruction*
