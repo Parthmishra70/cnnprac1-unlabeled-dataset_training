@@ -370,6 +370,8 @@ Where:
 https://github.dev/phlippe/uvadlc_notebooks/blob/master/docs/tutorial_notebooks/tutorial17/SimCLR.ipynb
 
 
+https://arxiv.org/pdf/2002.05709
+
 2. **InfoNCE**: "Representation Learning with Contrastive Predictive Coding"
 3. **ResNet**: "Deep Residual Learning for Image Recognition"
 
